@@ -1,19 +1,44 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About me
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+I am a Postdoctoral Research Fellow at University College London, Department of Chemistry.
+Started as an experimental physicist in my undergraduate study, I have gradually shifted into computational materials science/chemistry over the years.
 
-### Getting Started
+## Current research interests
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+The cathode is a performance critical component for Li-ion batteries current powering most small electronic devices and will be used more widely in transportation vechile in the future. 
+I am mainly interested predictive modelling and materials design for Li-ion cathode materials using first-principles method. 
+One of the main area of my research is to use first-principles structure prediction methods to computational search for possible new cathode materials that are
+performant, greener and more sustainable. 
+Beside that, I also work on understanding the mechanisms affecting the performance in known cathode materials and the role of dopants.
 
-### Example Content
+--------------
+## Education
+--------------
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+### PhD 2016-2020
+#### University of Cambridge, Department of Materials Science and Metallurgy
+Where I completed my PhD degree, working on modelling transition oxide thin films.
 
-### Questions?
+### MSci&BA 2012-2016
+#### University of Cambridge, Queens' College
+Where I studied Natural Sciences Physics.  
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+------------------------
+## Research experiences
+------------------------
+
+### PhD research - interfaces thin film oxides 
+
+Epitaxial oxide thin films are ideal platform for accessing novel physical phenomena as well as building practical functional devices.
+Compared to bulk materials, the low dimensionality of thin films means that the interfaces play important roles in controlling the macroscopic properties,
+an various unexpected properties can be induced.
+One seminal example of this is the observation of two-dimensional electron gas at the LAO-STO interfaces, where both sides are in fact insulating oxides. 
+
+
+------------------
+## Other interests
+------------------
