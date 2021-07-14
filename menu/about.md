@@ -5,7 +5,9 @@ permalink: /about
 ---
 
 I am a postdoctoral research fellow (aka PDRA) at University College London, Department of Chemistry.
-Started as an experimental physicist in my undergraduate study, I have gradually shifted into computational materials science/chemistry over the years.
+I started as an experimental physicist in my undergraduate study in Cambridge, and gradually shifted into computational materials science/chemistry over the years.
+
+![A picture of me](assets/img/headshot.jpg)
 
 ## Current research interests
 
@@ -24,10 +26,10 @@ Beside that, I also work on understanding the mechanisms affecting the performan
 
 Where I completed my PhD degree, working on modelling transition oxide thin films using first-principles methods coupled with structure prediction.
 
-### MSci&BA 2012-2016
+### MSci and BA 2012-2016
 #### University of Cambridge, Queens' College
 
-I studied the Natural Sciences Physics, also includes some materials science and a bit of Earth Science.   
+I studied the Natural Sciences Physics, quite a lot of Materials Science and a touch of Earth Sciences.   
 
 ------------------------
 ## Research experiences
@@ -50,6 +52,18 @@ where the film stays transparent until the very end.
 The ability of capturing hyperspectal images was proven to be the key foring achieve this, 
 for which I have developed a software toolkit coupling various in-house equipments, turning a normal mechanised microscope into a automated 3D spectral scanner. 
 
+-----------------------
+## Open source projects
+-----------------------
+
+I have developed and contributed to various materials science related open-source projects and some of the them are listed below. 
+The full list may be found by visiting my [GitHub profile]({{ site.data.settings.github_url }}).
+
+- [AiiDA](www.aiida.net) (contributor): An open source workflow engine focusing on provenance and high-throughput for computational materials science and more.
+- [aiida-castep](www.github.com/zhubonan/aiida-castep) (maintainer): An interface for AiiDA and the plane wave DFT code [CASTEP](wwww.castep.org).
+- [aiida-vasp](www.github.com/aiida-vasp/aiida-vasp) (developer): An interface for AiiDA and the plane wave DFT code [VASP](https://vasp.at).
+- [airsspy](www.github.com/zhubonan/airsspy) (maintainer): Python tool for buidling structural input files for the [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS) code 
+- [aiida-common-workflows](https://github.com/aiidateam/aiida-common-workflows) (contributor): implementation of common workflow interfaces across materials-science codes and plugins for AiiDA.
 
 ------------------
 ## Other interests
