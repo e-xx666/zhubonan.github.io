@@ -13,10 +13,10 @@ This is often done at multiple levels: the plane wave coefficients, the bands an
 
 A frequent question one may ask when running a calculations is: how many cores should I use?
 Obviously, using more cores *should* make the calculation faster, but it also increase the time spend on inter-process communications, causing the parallel efficiency to drop with minising returns.
-It not uncommon to see examples where a single calculation can be parallelised over thousands of cores for a super comptuer with relatively small drop on the efficiency.
+It not uncommon to see examples where a single calculation can be parallelised over thousands of cores for a supercomputer with relatively small drop on the efficiency.
 However, the rate of reduction in the parallel efficiency is also highly dependent on the size of the system: those of hard problems (e.g. more atoms) drop much slower than simple and small systems. 
 
-If one have lots of calculations to run over a fixed amount of resutls, rather than getting the result of each calculation quickly, it can be more efficient to run multiple calculations in parallel, each using a smaller number cores to achieve a higher throughput.
+If there aer many calculations to run through, rather than getting the result of each calculation quickly, it can be more efficient to run multiple calculations in parallel, each using a smaller number cores to achieve a higher throughput.
 
 Below are some test results for a 28-atom structure using the code [CASTEP]({{site.data.settings.software_urls.castep}}) with increasing number of cores while maintaining a full population of single compute node with 24 cores.
 This is a "small" calculation with only 340 eV plane wave cut off energy and 4 kpoints, and 106 bands.
