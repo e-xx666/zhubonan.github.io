@@ -34,3 +34,8 @@ sharing_button_prompt: 'Feel free to share!'
 related_posts: 'You may also enjoy:'
 
 post_date_prefix: 'Written on'
+
+software_urls:
+  castep: http://www.castep.org
+  vasp: https://vasp.at
+  aiida: https://aiida.net
